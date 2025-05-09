@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Home Inventory</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">home inventory and expiry tracker</string>
+    <string name="addCategory">+ Add Category</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="example_hint">Example Groceries, …</string>
+    <string name="category_name">Category Name</string>
+    <string name="add_product">+ Add Product</string>
+    <string name="example_hint2">Example apple, ..</string>
+    <string name="example_hint3">Example 1 can kg, count depends on product name</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="about_project">About Project</string>
+    <string name="product_details">Product Details</string>
+    <string name="add_home_inventory">Add Home Inventory</string>
+    <string name="home_inventory">Home Inventory</string>
+</resources>

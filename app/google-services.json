@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848478901096",
+    "project_id": "home-inventory-1d1a9",
+    "storage_bucket": "home-inventory-1d1a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848478901096:android:f79d6be28c31d7e1d3bcdd",
+        "android_client_info": {
+          "package_name": "com.example.liesettyfinalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRhVimNO9DmYfOVWl7Frn2a1tj4CUDAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

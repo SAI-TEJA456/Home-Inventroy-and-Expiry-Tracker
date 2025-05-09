@@ -1,0 +1,6 @@
+{
+  "createdBy": "Sai Teja Liesetty",
+  "projectName": "Home Inventory and Expiry Tracker",
+  "purpose": "Mobile Computing with Android Final Project",
+  "projectDescription": "This application allows users to create own inventory, manage inventory like create, delete and edit feature. After creating inventory users can add products with name, quantity, expiry date."
+}
